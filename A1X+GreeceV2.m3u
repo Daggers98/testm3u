@@ -4,11 +4,6 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
 https://azonew.iosplayer.ru/azo/eplayerdigitvbt1/mono.m3u8
 
-EXTINF:-1 tvg-id="" tvg-name="TNT Sports 6" tvg-logo="" group-title="TNT Sports UK" ,TNT Sports 6
-#EXTVLCOPT:http-referer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
-https://nfsnew.iosplayer.ru/nfs/premium33/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports 2" tvg-logo="" group-title="TNT Sports UK" ,TNT Sports 2
 #EXTVLCOPT:http-referer=https://ilovetoplay.xyz/
@@ -33,6 +28,12 @@ https://nfsnew.iosplayer.ru/nfs/premium34/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
 https://nfsnew.iosplayer.ru/nfs/premium12/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports test" tvg-logo="" group-title="TNT Sports UK" ,TNT Sports test
+#EXTVLCOPT:http-referer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_0 like Mac OS X) AppleWebKit/605.2.10 (KHTML, like Gecko) Version/17.6.0 Mobile/16F152 Safari/605.2
+https://nfsnew.iosplayer.ru/nfs/premium33/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports Football" tvg-logo="" group-title="Sky Sports UK" ,Sky Sports Football
