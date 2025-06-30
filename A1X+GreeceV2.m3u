@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/MarkMCFC/tfms.xyz/refs/heads/main/epgs/daddylive-channels-epg.xml.gz"
+#EXTM3U
 
-#EXTINF:-1 tvg-id="TEST" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/iptv-scraper/refs/heads/main/logos/vamos.png" group-title="TEST",TEST
+#EXTINF:-1 tvg-id="TEST"  group-title="TEST",TEST
 https://oha.to/play/1430033363/index.m3u8
