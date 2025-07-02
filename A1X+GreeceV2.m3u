@@ -1,4 +1,19 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="TEST"  group-title="TEST",TEST
+#EXTINF:-1 tvg-id="Fox Sports 501  group-title="Aus Sport",Fox Sports 501
+https://greg5rru56y4trhytjuyth.katosose2h2ri139ls8uwrlfixiwoqugedastoji7howrup7atrivichworker.workers.dev/2460d86d3892c5f73fb23a159ec07a73.m3u8
+
+#EXTINF:-1 tvg-id="Fox League"  group-title="Aus Sport",Fox League
+https://greg5rru56y4trhytjuyth.katosose2h2ri139ls8uwrlfixiwoqugedastoji7howrup7atrivichworker.workers.dev/c781d5bf532f568fb2770c0a8afbf808.m3u8
+
+#EXTINF:-1 tvg-id="Fox Sports 503"  group-title="Aus Sport",Fox Sports 503
+https://greg5rru56y4trhytjuyth.katosose2h2ri139ls8uwrlfixiwoqugedastoji7howrup7atrivichworker.workers.dev/6700ac25ea0d4068bcfc953bf9ea0444.m3u8
+
+#EXTINF:-1 tvg-id="Fox Footy 504"  group-title="Aus Sport",Fox Footy 504
 https://greg5rru56y4trhytjuyth.katosose2h2ri139ls8uwrlfixiwoqugedastoji7howrup7atrivichworker.workers.dev/be3900a8819013eef554d9aeee14b9bd.m3u8
+
+#EXTINF:-1 tvg-id="Fox Sports 505"  group-title="Aus Sport",Fox Sports 505
+https://greg5rru56y4trhytjuyth.katosose2h2ri139ls8uwrlfixiwoqugedastoji7howrup7atrivichworker.workers.dev/58582ebdda51b171777a15c61e74a089.m3u8
+
+#EXTINF:-1 tvg-id="Fox Sports 506"  group-title="Aus Sport",Fox Sports 506
+https://greg5rru56y4trhytjuyth.katosose2h2ri139ls8uwrlfixiwoqugedastoji7howrup7atrivichworker.workers.dev/ac0dfaf43b236054ea5ebe5862b68d00.m3u8
